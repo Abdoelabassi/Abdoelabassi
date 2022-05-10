@@ -7,6 +7,8 @@
 
 <p align="left"> <a href="https://twitter.com/abderrazaq_el" target="blank"><img src="https://img.shields.io/twitter/follow/abderrazaq_el?logo=twitter&style=for-the-badge" alt="abderrazaq_el" /></a> </p>
 
+- Passionate Learner, Currently doing research on neutrinos physics. I will post about me in a website soon....
+
 - 🌱 I’m currently learning **ROOT, GEANT4 , Quantum Computing, React, NEXT and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdoelabassi](https://github.com/Abdoelabassi)
