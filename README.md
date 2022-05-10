@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abderrazaq_el" target="blank"><img src="https://img.shields.io/twitter/follow/abderrazaq_el?logo=twitter&style=for-the-badge" alt="abderrazaq_el" /></a> </p>
 
-- 🌱 I’m currently learning **React, NEXT and TypeScript**
+- 🌱 I’m currently learning **ROOT, GEANT4, React, NEXT and TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdoelabassi](https://github.com/Abdoelabassi)
 
