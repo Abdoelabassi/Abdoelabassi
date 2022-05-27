@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm El Abassi Abderrazaq</h1>
-<h3 align="center">High Energy Physics student, passionate about coding</h3>
+<h3 align="center">Ph.D. student in Particle Physics, passionate learner </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdoelabassi&label=Profile%20views&color=0e75b6&style=flat" alt="abdoelabassi" /> </p>
 
@@ -7,13 +7,14 @@
 
 <p align="left"> <a href="https://twitter.com/abderrazaq_el" target="blank"><img src="https://img.shields.io/twitter/follow/abderrazaq_el?logo=twitter&style=for-the-badge" alt="abderrazaq_el" /></a> </p>
 
-- Passionate Learner, Currently doing research on neutrinos physics. I will post about me in a website soon....
+- Trying to understand the universe through subatomic particles's collisions, and do some computing and theory geek stuff, and also memes
+- I have a strong interest in Machine Learing, Deep Learning, Quantum Computing,  Web2.0, and Web3.0 technologies
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdoelabassi](https://github.com/Abdoelabassi)
 
 - 📫 How to reach me **abderrezaq@outlook.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's get to  know each other, Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/abderrazaq_el" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="abderrazaq_el" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/el-abassi-abderrazaq-19712a161/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elabassi-abderrazaq" height="30" width="40" /></a>
