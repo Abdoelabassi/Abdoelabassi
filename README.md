@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/abderrazaq_el" target="blank"><img src="https://img.shields.io/twitter/follow/abderrazaq_el?logo=twitter&style=for-the-badge" alt="abderrazaq_el" /></a> </p>
 
-- Experimental Particle Physics student, worked on ATLAS experiment during my master. Now I start working HyperKmaiokande experiment
+- Experimental Particle Physics student, worked on ATLAS experiment during my master. Now I'm started working on HyperKmaiokande experiment for my Ph.D. thesis.
 - Research interests: SuperSymmertry, Dark Matter in collider experiments, Proton Decay and CP violation in neutrinos experiments
 - I'm also curious  in learning and implementing Machine Learing ,and Deep Learning technques to my research, including also Quantum Computing and Quanum Machine Learning...
 
