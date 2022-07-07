@@ -7,8 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/abderrazaq_el" target="blank"><img src="https://img.shields.io/twitter/follow/abderrazaq_el?logo=twitter&style=for-the-badge" alt="abderrazaq_el" /></a> </p>
 
-- Trying to understand the universe through subatomic particles's collisions, and do some computing and theory geek stuff, and also memes
-- I have a strong interest in Machine Learing, Deep Learning, Quantum Computing,  Web2.0, and Web3.0 technologies
+- Experimental Particle Physics student, worked on ATLAS experiment during my master. Now I start working HyperKmaiokande experiment
+- Research interests: SuperSymmertry, Dark Matter in collider experiments, Proton Decay and CP violation in neutrinos experiments
+- I'm also curious  in learning and implementing Machine Learing ,and Deep Learning technques to my research, including also Quantum Computing and Quanum Machine Learning...
+
+
+- I do also love coding, web2.0 and web3.0 are magneficent technologies to explore, and gain a lot of value out of it!!
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdoelabassi](https://github.com/Abdoelabassi)
 
